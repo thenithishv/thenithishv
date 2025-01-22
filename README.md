@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/thenithishv" target="blank"><img src="https://img.shields.io/twitter/follow/thenithishv?logo=twitter&style=for-the-badge" alt="thenithishv" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Express.js, Springboot**
+- 🌱 I’m currently learning **React.js, Express.js**
 
 - 💬 Ask me about **React.js, Express.js, MongoDB**
 
