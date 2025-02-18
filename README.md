@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nithish K S
 # I'm passionate Frontend Developer/Full Stack Developer from India
-🔭 I’m currently working on #Super App<br>🌱 I’m currently learning Backend<br>💬 Ask me about React.js, Express.js and WebDev<br>⚡I'm just a beginer
+🔭 I’m currently working on #Job Finder Application<br>🌱 I’m currently learning Backend<br>💬 Ask me about React.js, Express.js and WebDev<br>⚡I'm just a beginer
 
 
 ## 🌐 Socials:
